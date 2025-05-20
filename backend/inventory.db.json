@@ -1,0 +1,117 @@
+{
+  "db": [
+    {
+      "userId": 1,
+      "inventory": [
+        {
+          "id": 1,
+          "name": "Item 1",
+          "quantity": 10,
+          "price": 10,
+          "description": "This is a description of Item 1.",
+          "supplier": "Supplier A"
+        },
+        {
+          "id": 2,
+          "name": "Item 2",
+          "quantity": 20,
+          "price": 15,
+          "description": "This is a description of Item 2.",
+          "supplier": "Supplier B"
+        },
+        {
+          "id": 4,
+          "name": "New eheh",
+          "price": 12,
+          "quantity": 12,
+          "supplier": "Sup1",
+          "description": "hmmm",
+          "createdAt": "2025-05-03T19:45:10.835Z",
+          "updatedAt": "2025-05-12T16:41:40.686Z"
+        },
+        {
+          "id": 5,
+          "name": "Hehee",
+          "price": 12,
+          "quantity": 2223,
+          "supplier": "Haha",
+          "description": "Qua buon",
+          "createdAt": "2025-05-12T16:42:24.600Z",
+          "updatedAt": "2025-05-12T16:43:14.412Z"
+        },
+        {
+          "id": 6,
+          "name": "hhehe",
+          "price": 1,
+          "quantity": 2,
+          "supplier": "hh",
+          "description": "hh",
+          "createdAt": "2025-05-12T16:46:01.980Z",
+          "updatedAt": null
+        },
+        {
+          "id": 7,
+          "name": "hgg",
+          "price": 1,
+          "quantity": 1,
+          "supplier": "33",
+          "description": "33",
+          "createdAt": "2025-05-12T16:48:26.226Z",
+          "updatedAt": null
+        }
+      ]
+    },
+    {
+      "userId": 3,
+      "inventory": [
+        {
+          "id": 1,
+          "name": "Item 5",
+          "quantity": 70,
+          "price": 18,
+          "description": "This is a description of Item 7.",
+          "supplier": "Supplier F"
+        },
+        {
+          "id": 2,
+          "name": "Item 8",
+          "quantity": 25,
+          "price": 22,
+          "description": "This is a description of Item 8.",
+          "supplier": "Supplier G"
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "inventory": [
+        {
+          "id": 1,
+          "name": "Item 4",
+          "quantity": 15,
+          "price": 20,
+          "description": "This is a description of Item 4.",
+          "supplier": "Supplier D"
+        },
+        {
+          "id": 2,
+          "name": "Item 6",
+          "quantity": 80,
+          "price": 12,
+          "description": "This is a description of Item 6.",
+          "supplier": "Supplier E"
+        },
+        {
+          "id": 3,
+          "name": "Item 3",
+          "price": 23,
+          "quantity": 9,
+          "supplier": "CircleK",
+          "description": "Very beautiful",
+          "createdAt": "2025-05-04T06:01:54.373Z",
+          "updatedAt": null
+        }
+      ]
+    }
+  ]
+}

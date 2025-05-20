@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "trung01@gmail.com",
+      "password": "$2b$10$5riFzrhkImEzh95v/GP.HeK0b3.2ztyeniRsfRQJ.5gxZKUY4rEoq"
+    },
+    {
+      "id": 2,
+      "email": "hahah@gmail.com",
+      "password": "$2b$10$D288/WFhbz2tJjLrBzOcIOhHabS6w1jPiRlla4KN.nVJdWXTGc5wa"
+    },
+    {
+      "id": 3,
+      "email": "trung2603@gmail.com",
+      "password": "$2b$10$jPO1/UQu/SUm9uI7iHwti.5HSbtb35ZHdQmsEan0rlTxBdwL2asBO"
+    }
+  ]
+}
